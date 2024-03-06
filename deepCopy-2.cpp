@@ -14,7 +14,7 @@ public:
     {
         cout << "Default constructor called " << endl;
         // dynamic memory allocation
-        breadth = new int;
+        breadth = new int; 
     }
 
     //copy constructor called
